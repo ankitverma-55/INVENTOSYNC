@@ -1,0 +1,6 @@
+item,MountingType,BSQPartNumber,PartNumber,Description,Manufacturer,Rack,BoxNumber,Project,BalancedQuantity,QuantityType
+Capacitor,Through Hole,BQ_CAP_MLCC4700_300V,B32021A3472M,4.7 NF20%300 VOLT,EPCOS,4,147,Aircon,29,none
+IC,SMD,BQ_UC_INF_I2_64P64KB,IMC302A,Imotion2 microcontroller 64pin 64KB Flash,Infineon,4,143,Aircon,12,none
+IGBT,Through Hole,BQ_IGBT_INF_65V_30A,IKW30N65H5,IGBT 650V 30A,Infineon,1,120,Aircon,378,none
+new,sf,sd,sdfaf,sadfadf,sdf,2,10,sdaf,10,none
+Resistor,SMD,BQ_RES_SMD_10K_5_0603,CR-03FL7-10K,10K 1/10W 1% 0603 SMD,Watts,3,15,Aircon,100,none
